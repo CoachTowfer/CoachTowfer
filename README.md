@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoachTowfer
 - 👀 I’m interested in Web Development and Creative Powerpoint Presentation.
 - 🌱 I’m currently learning Java Script and Git/Github.
-- 💞️ I’m looking to collaborate on with those who are adept in using Front-end and Back-end Web Application.
+- 💞️ I’m looking to collaborate with those who are adept in using Front-end and Back-end Web Application.
 - 📫 How to reach me is through my email at tuping1974@gmail.com
 - 😄 Pronouns: Towfer
 - ⚡ Fun fact: Hello
